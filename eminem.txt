@@ -1,0 +1,17 @@
+[albums]
+reco;eminem;recovery;2010-07-18
+kami;eminem;kamikaze;2018-08-31
+slim;eminem;the slim shady LP;1999-02-23
+[tracks] cim hossz az
+Public Service Announcement;0:33;slim;null
+My Name Is;4:28;slim;null
+Guilty Conscience;3:19;slim;null
+Brain Damage;3:46;slim;null
+The Ringer;5:37;kami;null
+Greatest;3:46;kami;null
+Lucky you;4:04;kami;null
+Paul;0:35;kami;null
+Cold Wind Blows;5:03;reco;null
+Talkin 2 Myself;5:00;reco;null
+On Fire;3:33;reco;null
+Wont Back Down;4:25;reco;null
